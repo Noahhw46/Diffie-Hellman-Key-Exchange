@@ -18,4 +18,3 @@ Kb = ((pow(A, b)) % p) #secret shared by both, established by your friend
 print("Secret key for A = ", str(Ka))
 print("Secret key for B = ", str(Kb))
 
-#testing commits
