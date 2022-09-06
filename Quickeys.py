@@ -6,6 +6,8 @@ from tkinter import filedialog, Text
 from tkinter import ttk
 from turtle import fillcolor
 
+#poopies
+
 #All the stuff you added is excellent Dante... all i did was add a tiny thing that says 'username'... all these functions I have in a string were just me playing around with tktinker haha... I'll delete them soon enough, but I was still having fun with them
 """ 
 def weird_checkerboard():
